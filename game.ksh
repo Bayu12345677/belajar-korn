@@ -8,7 +8,7 @@ local su='clear'     #  <= local Hapus   #
 
 command $su     #     <= string buat run perintah local nya  $
 
-figlet -f slant "$system" | lolcat #  <= ascii figlet   #
+figlet -f smmono9 "$system" | lolcat #  <= ascii figlet   #
 
 echo
 echo
